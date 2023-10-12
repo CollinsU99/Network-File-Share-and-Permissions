@@ -38,4 +38,3 @@ This lab builds upon (https://github.com/CollinsU99/configure-ad.git) and provid
 
 <h2>Actions and Observations</h2>
 
-https://github.com/CollinsU99/configure-ad.git
