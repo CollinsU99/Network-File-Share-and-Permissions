@@ -32,7 +32,7 @@ This lab builds upon (https://github.com/CollinsU99/configure-ad.git) and provid
 - Create a new group in "_SECURITY_GROUPS" called "ACCOUNTANTS"
 - Give ACCOUNTANTS Security Group "Read/Write" permissions
 - Add the user in Cilent-1 to the ACCOUNTANTS Security Group
-- Log into the user with ACCOUNTIANS role
+- Log into the user with ACCOUNTANTS role and observe that the permissions was applied successfully
 
 <h2>Actions and Observations</h2>
 
